@@ -8,10 +8,7 @@ var Messenger = function(el){
     m.current_length = 0;
     m.fadeBuffer = false;
     m.messages = [
-      'This is a message, which can be long and all.',
-      'This could be another message.',
-      'Also short ones work!',
-      'Cool.'
+      'ampis.org',
     ];
     
     setTimeout(m.animateIn, 100);
