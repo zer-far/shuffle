@@ -1,6 +1,6 @@
 $(document).ready(function () {
   const $random = $('.nbr');
-  const $timer = 30;
+  const $timer = 10;
   let $it;
   let $data = 0;
   let index;
