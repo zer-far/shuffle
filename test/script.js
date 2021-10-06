@@ -5,7 +5,7 @@ $(document).ready(function () {
   let $data = 0;
   let index;
   let change;
-  let letters = ['p', 'a', 't', 't', 'e', 'r', 'n'];
+  let letters = ['a', 'm', 'p', 'i', 's', '.', 'o', 'r', 'g'];
 
   $random.each(function () {
     change = Math.round(Math.random() * 100);
